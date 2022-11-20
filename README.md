@@ -1,7 +1,5 @@
-Hi! My name is Aaron Vitarana.
+# Personal Website
 
-I am currently a fourth-year Physics student at the University of Oxford. Broadly speaking, I am interested in [complex systems](https://comprehensiblecomplexity.com).
+[https://a5v.github.io/personal-website](https://a5v.github.io/personal-website)
 
-My [GitHub](https://github.com/a5v) and [Kaggle](https://www.kaggle.com/maxpower742) profiles.
-
-Some [A Level Physics Notes](https://www.tes.com/teaching-resources/shop/thealevelphysicist).
+I created a personal website, using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/), to share somethings I have been thinking about.
