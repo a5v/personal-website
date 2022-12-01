@@ -21,7 +21,7 @@ The GitHub repo is available [here](https://github.com/a5v/oxford-physics-labs).
 
 ## The Drivers of Peak Warming
 
-This is my Master project where I am carrying out an integrated modelling of the climate and the economy. I developed a novel iterative mathematical model of interactions between the climate and the economy (Python); I am exploring the impact of key assumptions in a benefit-cost maximisation approach to climate policy on the peak warming achieved and social cost of carbon (Jupyter Notebook). My project is being supervised by Professor Hannah Christensen, Professor Myles Allen, and Stuart Jenkins. The GitHub repo is available [here](https://github.com/a5v/drivers-of-peak-warming).
+This is my Masters project where I am carrying out an integrated modelling of the climate and the economy. I developed a novel iterative mathematical model of interactions between the climate and the economy (Python); I am exploring the impact of key assumptions in a benefit-cost maximisation approach to climate policy on the peak warming achieved and social cost of carbon (Jupyter Notebook). My project is being supervised by Professor Hannah Christensen, Professor Myles Allen, and Stuart Jenkins. The GitHub repo is available [here](https://github.com/a5v/drivers-of-peak-warming).
 
 ## Jane Street Market Prediction
 
