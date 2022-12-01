@@ -27,6 +27,11 @@ This is my Masters project where I am carrying out an integrated modelling of th
 
 This is a Kaggle competition, where I decided to apply deep learning techniques that I learnt through online resources. I built a neural network, with TensorFlow backend, that predicts whether a stock market trade should be executed from a set of anonymised features (Python, Keras, Pandas). I was awarded a [bronze medal](https://www.kaggle.com/maxpower742) in the Kaggle competition.
 
+> "Det er svært at spå, især om fremtiden." \
+> (It is difficult to make predictions, especially about the future)
+>
+> -- <cite> Niels Bohr <cite>
+
 ## Modelling the Global Fossil Fuel Supply Chain Network
 
 In Summer 2020, I spent six weeks as a data science intern at the Oxford Martin School doing research regarding the Economics of Sustainability. Here I implemented cutting-edge community detection algorithms on the global fossil fuel supply chain modelled as a min-cost flow network (Python, C++, GeoPandas). The GitHub repo is available [here](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain).
