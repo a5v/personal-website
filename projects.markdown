@@ -50,7 +50,7 @@ This was my computational BA project on the influence of aerosols on the retriev
 
 ## Serverless Slack App for Onboarding
 
-In Summer 2021, I spent two months as a software engineering intern at the TNG Technology Consulting GmbH. Here I designed and implemented a serverless Slack application to improve the onboarding experience for new employees with interactive questions (Python, AWS CDK). This included the administration of a NoSQL database for storing user information, permissions, questions, and results (DynamoDB).
+In Summer 2021, I spent two months as a software engineering intern at the TNG Technology Consulting GmbH. Here I designed and implemented a serverless Slack application to improve the onboarding experience for new employees with interactive questions (Python, AWS CDK). This included the administration of a NoSQL database for storing user information, permissions, questions, and results (DynamoDB). My intership certificate can be found [here](https://a5v.github.io/personal-website/files/good_machine_internship_certificate.pdf).
 
 ## PowerPoint Ghostwriter
 
