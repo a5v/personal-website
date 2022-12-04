@@ -12,10 +12,14 @@ Hi, I'm Aaron :)) I am currently a final-year Physics student at the University 
 
 Some things that I am interest in:
 - understanding complex systems such as financial markets, biological systems, and the climate system (see [previous academic blog](https://comprehensiblecomplexity.com/))
-- music (see [Spotify](https://open.spotify.com/user/said2499))
 - coding (see [projects](https://a5v.github.io/personal-website/projects/))
+- music (see [Spotify](https://open.spotify.com/user/said2499))
 - films, books, YouTube etc.
-- rowing
+- rowing (see photo below)
+
+<center>
+<img src="https://a5v.github.io/personal-website/assets/images/flower_crown_rowing.jpg" style="width:80%;"/>
+</center>
 
 Some other links:
 - [LinkedIn](https://www.linkedin.com/in/aaron-vitarana/)
