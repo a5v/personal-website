@@ -15,7 +15,7 @@ Projects include investigations into:
 - [B mesons](https://a5v.github.io/personal-website/assets/files/NP10_mini_project_report.pdf)  (C++)
 - [colour magnitude diagrams](https://a5v.github.io/personal-website/assets/files/colour_magnitude_diagrams_report.pdf) (R, R Markdown)
 - [superconductivity](https://a5v.github.io/personal-website/assets/files/superconductivity_report.pdf) (Python, Jupyter Notebook)
-- [chaos](https://a5v.github.io/personal-website/assets/files/chaos.pdf) (MATLAB)
+- [chaos](https://a5v.github.io/personal-website/assets/files/chaos_lab_report.pdf) (MATLAB)
 
 The GitHub repo is available [here](https://github.com/a5v/oxford-physics-labs).
 
