@@ -8,7 +8,7 @@ I have tried to undertake a wide-variety of coding projects that span across are
 
 ## Oxford Physics Labs
 
-A series of physics-based data analysis projects, which I received a practical commendation for "excellence of laboratory practical work”.
+A series of physics-based data analysis projects carried out as Oxford Physics Lab work.
 
 Projects include investigations into:
 - [the magnetophonon effect](https://a5v.github.io/personal-website/assets/files/magnetophonon_effect_report.pdf) (Python, Jupyter Notebok)
@@ -17,11 +17,9 @@ Projects include investigations into:
 - [superconductivity](https://a5v.github.io/personal-website/assets/files/superconductivity_report.pdf) (Python, Jupyter Notebook)
 - [chaos](https://a5v.github.io/personal-website/assets/files/chaos_lab_report.pdf) (MATLAB)
 
-The GitHub repo is available [here](https://github.com/a5v/oxford-physics-labs).
+I received a practical commendation for "excellence of laboratory practical work”.
 
-## The Drivers of Peak Warming
-
-This is my Masters project where I am carrying out an integrated modelling of the climate and the economy. I developed a novel iterative mathematical model of interactions between the climate and the economy (Python); I am exploring the impact of key assumptions in a benefit-cost maximisation approach to climate policy on the peak warming achieved and social cost of carbon (Jupyter Notebook). My project is being supervised by Professor Hannah Christensen, Professor Myles Allen, and Stuart Jenkins. The GitHub repo is available [here](https://github.com/a5v/drivers-of-peak-warming).
+- [GitHub repo](https://github.com/a5v/oxford-physics-labs) containing all projects
 
 ## Jane Street Market Prediction
 
@@ -34,7 +32,9 @@ This is a Kaggle competition, where I decided to apply deep learning techniques 
 
 ## Modelling the Global Fossil Fuel Supply Chain Network
 
-In Summer 2020, I spent six weeks as a data science intern at the Oxford Martin School doing research regarding the Economics of Sustainability. Here I implemented cutting-edge community detection algorithms on the global fossil fuel supply chain modelled as a min-cost flow network (Python, C++, GeoPandas). The GitHub repo is available [here](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain).
+In Summer 2020, I spent six weeks as a data science intern at the Oxford Martin School doing research regarding the Economics of Sustainability. Here I implemented cutting-edge community detection algorithms on the global fossil fuel supply chain modelled as a min-cost flow network (Python, C++, GeoPandas).
+
+- [GitHub repo](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain).
 
 ## Computational Particle Physics
 
@@ -46,18 +46,29 @@ This was a LawTech Hackathon at Barclays Eagle Labs, where my team developed a w
 
 ## Monitoring Aerosols above Clouds
 
-This was my computational BA project on the influence of aerosols on the retrieval of cloud properties from satellite data (Python, FORTRAN, Azure). The GitHub repo to the modified Python wrapper is available [here](https://github.com/a5v/pyDISORT) and the GitHub repo to the project is available [here](https://github.com/a5v/aerosols-above-clouds).
+This was my computational BA project on the influence of aerosols on the retrieval of cloud properties from satellite data (Python, FORTRAN, Azure).
+
+- [GitHub repo](https://github.com/a5v/pyDISORT) for modified Python wrapper
+- [GitHub repo](https://github.com/a5v/aerosols-above-clouds) for main project
 
 ## Serverless Slack App for Onboarding
 
-In Summer 2021, I spent two months as a software engineering intern at the TNG Technology Consulting GmbH. Here I designed and implemented a serverless Slack application to improve the onboarding experience for new employees with interactive questions (Python, AWS CDK). This included the administration of a NoSQL database for storing user information, permissions, questions, and results (DynamoDB). My intership certificate can be found [here](https://a5v.github.io/personal-website/assets/files/good_machine_internship_certificate.pdf).
+In Summer 2021, I spent two months as a Junior Consultant working with the 'client' of TNG Technology Consulting GmbH. Here I designed and implemented a serverless Slack application to improve the onboarding experience for new employees with interactive questions (Python, AWS CDK). This included the administration of a NoSQL database for storing user information, permissions, questions, and results (DynamoDB).
+
+- [Internship Certificate](https://a5v.github.io/personal-website/assets/files/good_machine_internship_certificate.pdf)
 
 ## PowerPoint Ghostwriter
 
 In Autumn 2022, I spent two months as a software engineering intern at the TNG Technology Consulting GmbH. Here I Incorporated NLP transformer models, to generate text and images, into a 'PowerPoint Ghostwriter' that uses AI to compose and deliver a presentation on a given topic (JavaScript, GPT-3, DALL·E 2). In addition, I helped develop a web application using Svelte to facilitate interacting with the 'PowerPoint Ghostwriter' (HTML, CSS).
 
+## The Drivers of Peak Warming
+
+This is my Masters project where I am carrying out an integrated modelling of the climate and the economy. I developed a novel iterative mathematical model of interactions between the climate and the economy (Python); I am exploring the impact of key assumptions in a benefit-cost maximisation approach to climate policy on the peak warming achieved and social cost of carbon (Jupyter Notebook). My project is being supervised by Professor Hannah Christensen, Professor Myles Allen, and Stuart Jenkins.
+
+- [GitHub repo](https://github.com/a5v/drivers-of-peak-warming).
+
 ## This Website
 
 :))
 
-The GitHub repo is available [here](https://github.com/a5v/personal-website).
+- [GitHub repo](https://github.com/a5v/personal-website)
