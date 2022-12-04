@@ -11,11 +11,11 @@ I have tried to undertake a wide-variety of coding projects that span across are
 A series of physics-based data analysis projects, which I received a practical commendation for "excellence of laboratory practical work”.
 
 Projects include investigations into:
-- superconductivity (Python, Jupyter Notebook)
-- the magnetophonon effect (Python, Jupyter Notebok)
-- B mesons produced in proton-antiproton collisions (C++)
-- colour magnitude diagrams (R, R Markdown)
-- chaos (MATLAB)
+- [the magnetophonon effect](https://a5v.github.io/personal-website/assets/files/magnetophonon_effect_report.pdf) (Python, Jupyter Notebok)
+- [superconductivity](https://a5v.github.io/personal-website/assets/files/superconductivity_report.pdf) (Python, Jupyter Notebook)
+- [B mesons](https://a5v.github.io/personal-website/assets/files/NP10_mini_project_report.pdf)  (C++)
+- [colour magnitude diagrams](https://a5v.github.io/personal-website/assets/files/colour_magnitude_diagrams_report.pdf) (R, R Markdown)
+- [chaos](https://a5v.github.io/personal-website/assets/files/colour_magnitude_diagrams_report.pdf) (MATLAB)
 
 The GitHub repo is available [here](https://github.com/a5v/oxford-physics-labs).
 
@@ -50,7 +50,7 @@ This was my computational BA project on the influence of aerosols on the retriev
 
 ## Serverless Slack App for Onboarding
 
-In Summer 2021, I spent two months as a software engineering intern at the TNG Technology Consulting GmbH. Here I designed and implemented a serverless Slack application to improve the onboarding experience for new employees with interactive questions (Python, AWS CDK). This included the administration of a NoSQL database for storing user information, permissions, questions, and results (DynamoDB). My intership certificate can be found [here](https://a5v.github.io/personal-website/files/good_machine_internship_certificate.pdf).
+In Summer 2021, I spent two months as a software engineering intern at the TNG Technology Consulting GmbH. Here I designed and implemented a serverless Slack application to improve the onboarding experience for new employees with interactive questions (Python, AWS CDK). This included the administration of a NoSQL database for storing user information, permissions, questions, and results (DynamoDB). My intership certificate can be found [here](https://a5v.github.io/personal-website/assets/files/good_machine_internship_certificate.pdf).
 
 ## PowerPoint Ghostwriter
 
