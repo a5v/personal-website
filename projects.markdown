@@ -12,10 +12,10 @@ A series of physics-based data analysis projects, which I received a practical c
 
 Projects include investigations into:
 - [the magnetophonon effect](https://a5v.github.io/personal-website/assets/files/magnetophonon_effect_report.pdf) (Python, Jupyter Notebok)
-- [superconductivity](https://a5v.github.io/personal-website/assets/files/superconductivity_report.pdf) (Python, Jupyter Notebook)
 - [B mesons](https://a5v.github.io/personal-website/assets/files/NP10_mini_project_report.pdf)  (C++)
 - [colour magnitude diagrams](https://a5v.github.io/personal-website/assets/files/colour_magnitude_diagrams_report.pdf) (R, R Markdown)
-- [chaos](https://a5v.github.io/personal-website/assets/files/colour_magnitude_diagrams_report.pdf) (MATLAB)
+- [superconductivity](https://a5v.github.io/personal-website/assets/files/superconductivity_report.pdf) (Python, Jupyter Notebook)
+- [chaos](https://a5v.github.io/personal-website/assets/files/chaos.pdf) (MATLAB)
 
 The GitHub repo is available [here](https://github.com/a5v/oxford-physics-labs).
 
