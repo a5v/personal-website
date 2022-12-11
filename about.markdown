@@ -14,7 +14,7 @@ I am currently a final-year Physics student at the University of Oxford.
 
 <br>
 
-Some things that I am interest in:
+Some things that I am interested in:
 - understanding complex systems such as financial markets, biological systems, and the climate system (see [previous academic blog](https://comprehensiblecomplexity.com/))
 - coding (see [projects](https://a5v.github.io/personal-website/projects/))
 - music (see [Spotify](https://open.spotify.com/user/said2499))
