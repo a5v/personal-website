@@ -9,10 +9,13 @@ layout: default
   <h2>
     Hi, I'm Aaron 👋
   </h2>
+  <p>
   I'm a Physics Student at the University of Oxford
-</center>
+  </p>
 
-<!-- Some other links:
-- [LinkedIn](https://www.linkedin.com/in/aaron-vitarana/)
-- [GitHub](https://github.com/a5v)
-- [Kaggle](https://www.kaggle.com/maxpower742) -->
+  <div style="width:5%;text-align:center;">
+    <!-- <a href="https://www.linkedin.com/in/aaron-vitarana/"> <img src="https://a5v.github.io/personal-website/assets/icons/linkedin_icon.png"> </a> -->
+    <a href="https://github.com/a5v"> <img src="https://a5v.github.io/personal-website/assets/icons/github_icon.png"> </a>
+  </div>
+
+</center>
