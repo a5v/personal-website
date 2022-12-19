@@ -5,7 +5,7 @@
 layout: default
 ---
 <center>
-  <img src="https://a5v.github.io/personal-website/assets/images/profile_pic.png" style="width:50%;"/>
+  <img src="https://a5v.github.io/personal-website/assets/images/profile_pic_low_res.png" style="width:50%;"/>
   <h2>
     Hi, I'm Aaron 👋
   </h2>
@@ -14,8 +14,7 @@ layout: default
   </p>
 
   <div style="width:5%;text-align:center;">
-    <!-- <a href="https://www.linkedin.com/in/aaron-vitarana/"> <img src="https://a5v.github.io/personal-website/assets/icons/linkedin_icon.png"> </a> -->
-    <a href="https://github.com/a5v"> <img src="https://a5v.github.io/personal-website/assets/icons/github_icon.png"> </a>
+    <a href="https://www.linkedin.com/in/aaron-vitarana/"> <img src="https://a5v.github.io/personal-website/assets/icons/linkedin_icon.png"> </a>
   </div>
 
 </center>
