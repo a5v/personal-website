@@ -6,6 +6,14 @@ permalink: /projects/
 
 I have undertaken numerous programming projects that span across data science, software engineering, mathematical modelling, and their intersections; I have actively tried to undertake a wide-variety of projects to develop a solid programming skill-set. Projects are listed in no particular order, but are separated into three categories: Oxford Physics Projects, Personal Projects, and Internship Projects.
 
+For some projects, code is available on my GitHub profile:
+
+<center>
+  <div style="width:5%;text-align:center;">
+    <a href="https://github.com/a5v"> <img src="https://a5v.github.io/personal-website/assets/icons/github_icon.png"> </a>
+  </div>
+</center>
+
 <br>
 
 ## Oxford Physics Projects
