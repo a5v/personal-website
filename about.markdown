@@ -17,6 +17,7 @@ Hi, I'm Aaron :)) I am currently a final-year Physics student at the University 
 
 - understanding complex systems such as financial markets, biological systems, and the climate system (see [previous academic blog](https://comprehensiblecomplexity.com/))
 - coding (see [projects](https://a5v.github.io/personal-website/projects/))
+- sustainability
 - creativity
 - languages
 - rowing (see photo below)
