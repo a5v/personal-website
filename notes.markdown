@@ -4,8 +4,8 @@ title: Notes
 permalink: /notes/
 ---
 
-> “You cannot teach a man anything, you can only help him find it within himself.”
+> “Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible.”
 >
-> -- <cite>Galileo Galilei<cite>
+> -- <cite>Richard Feynmann<cite>
 
 Some [A Level Physics Notes](https://www.tes.com/teaching-resources/shop/thealevelphysicist).
