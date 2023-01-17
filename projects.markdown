@@ -94,3 +94,5 @@ In Summer 2021, I spent two months as a Junior Consultant at Good Machine Ltd wo
 ## powerpoint ghostwriter
 
 In Autumn 2022, I spent two months as a software engineering intern at the TNG Technology Consulting GmbH. Here I Incorporated NLP transformer models, to generate text and images, into a 'PowerPoint Ghostwriter' that uses AI to compose and deliver a presentation on a given topic (JavaScript, GPT-3, DALL·E 2). In addition, I helped develop a web application using Svelte to facilitate interacting with the 'PowerPoint Ghostwriter' (HTML, CSS).
+
+- [PowerPoint Ghostwriter](https://ai-slides.com/)
