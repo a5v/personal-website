@@ -16,7 +16,7 @@ I have undertaken numerous programming projects that span across data science, s
 
 Highlighted Projects:
 - [AI Slides](https://ai-slides.com/)
-- [GitHub repo](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain)
+- [Fossil Fuel Supply Chain Network](https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain)
 
 # Oxford Physics Projects
 
